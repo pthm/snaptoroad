@@ -1,0 +1,29 @@
+{
+  "name": "snaptoroad",
+  "version": "1.0.0",
+  "description": "Wrapper for the Google Roads API snapToRoad method that enables batch processing with overlap ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pthm/snaptoroad.git"
+  },
+  "keywords": [
+    "snaptoroad",
+    "google",
+    "roads",
+    "snap",
+    "to",
+    "road",
+    "gps",
+    "google"
+  ],
+  "author": "Patt-tom McDonnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pthm/snaptoroad/issues"
+  },
+  "homepage": "https://github.com/pthm/snaptoroad#readme"
+}
